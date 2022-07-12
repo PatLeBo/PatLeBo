@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PatLeBo
+- 👀 I’m interested in DApps & Blockchains
+- 🌱 I’m currently learning Strapi/Directus Backend
+- 💞️ I’m looking to collaborate on DApps.Buzz & Cryptoradio.FM
+- 📫 How to reach me Telegram @PatLeBo
